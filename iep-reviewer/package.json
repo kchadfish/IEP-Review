@@ -1,0 +1,11 @@
+{
+  "name": "iep-reviewer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Scaffold for an Embrace-specific IEP reviewer built with TypeScript, PDF.js, and Google Apps Script.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "test": "echo \"No automated tests are configured yet.\""
+  }
+}
